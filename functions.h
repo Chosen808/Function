@@ -1,5 +1,5 @@
 #pragma
-#include <stdio.
+#include <stdio.h>
 
 void getInputValuesFromString (char string, int input1, int input2, int input3)
 {
